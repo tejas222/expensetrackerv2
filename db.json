@@ -1,0 +1,85 @@
+{
+  "expenses": [
+    {
+      "title": "Salary",
+      "amount": "65499",
+      "type": "Credit",
+      "category": "Salary",
+      "id": 1,
+      "Trasdate": "16-2-2022",
+      "month": "February"
+    },
+    {
+      "title": "To Mom",
+      "amount": "20000",
+      "type": "Debit",
+      "category": "To Mom",
+      "id": 2,
+      "Trasdate": "16-2-2022",
+      "month": "February"
+    },
+    {
+      "title": "Mutual fund SIP",
+      "amount": "1000",
+      "type": "Debit",
+      "category": "SIP",
+      "id": 3,
+      "Trasdate": "16-2-2022",
+      "month": "February"
+    },
+    {
+      "title": "Petrol",
+      "amount": "1341",
+      "type": "Debit",
+      "category": "Petrol",
+      "id": 4,
+      "Trasdate": "16-2-2022",
+      "month": "February"
+    },
+    {
+      "title": "February Rent",
+      "amount": "2333",
+      "type": "Debit",
+      "category": "Rent",
+      "id": 5,
+      "Trasdate": "16-2-2022",
+      "month": "February"
+    },
+    {
+      "title": "Lunch, Dinner, breakfast",
+      "amount": "5000",
+      "type": "Debit",
+      "category": "Food",
+      "Trasdate": "16-2-2022",
+      "month": "February",
+      "id": 6
+    },
+    {
+      "title": "Postpaid Bill",
+      "amount": "1150",
+      "type": "Debit",
+      "category": "Recharge",
+      "Trasdate": "16-2-2022",
+      "month": "February",
+      "id": 7
+    },
+    {
+      "title": "Test",
+      "amount": "72",
+      "type": "Debit",
+      "category": "To Mom",
+      "Trasdate": "16-2-2022",
+      "Transmonth": "February",
+      "id": 8
+    },
+    {
+      "title": "Dolorem doloremque i",
+      "amount": "81",
+      "type": "Debit",
+      "category": "Shopping",
+      "Trasdate": "16-2-2022",
+      "Transmonth": "February",
+      "id": 9
+    }
+  ]
+}
